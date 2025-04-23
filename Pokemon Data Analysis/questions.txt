@@ -1,0 +1,55 @@
+🧾 Descriptive Analysis Questions
+
+What is the distribution of Pokémon across the 9 Generations?
+
+What are the top 10 Pokémon based on Base_Stats?
+
+How many Pokémon belong to each Type (e.g., Water, Fire, Grass, etc.)?
+
+What is the average HP, Attack, Defense, etc., by Generation?
+
+What are the most common Weaknesses among all Pokémon?
+
+How many Legendary, Mythic, and Ultra Beast Pokémon are there?
+
+What is the average Capture Rate by status (Legendary, etc.)?
+
+⚔️ Comparative Analysis Questions
+
+How do the stats of Legendary Pokémon compare to non-Legendaries?
+
+Do Dual-type Pokémon have better Base_Stats than Single-type Pokémon?
+
+Which Generation has the strongest Pokémon on average?
+
+Is there a difference in Sp. Attack vs. Attack for different Types?
+
+Do Mythic Pokémon tend to have higher Sum of Weaknesses?
+
+How does Egg Group relate to average Base_Stats?
+
+How do Male-dominant, Female-dominant, and Genderless Pokémon differ in stats?
+
+📊 Correlation/Statistical Analysis Questions
+
+Is there a correlation between Capture Rate and Base_Stats?
+
+Does Sum of Weaknesses negatively correlate with Base_Stats?
+
+Are there strong correlations between any of the individual stats (e.g., HP vs. Defense)?
+
+Is there a relationship between Type combinations and Base_Stats?
+
+Do Passive Abilities have any relation to stats or weaknesses?
+
+🤖 Advanced / Predictive Questions
+
+Can we predict whether a Pokémon is Legendary based on its stats and features?
+
+Can we build a clustering model to group Pokémon into natural categories based on their stats?
+
+Which features are most predictive of a high Base_Stats score?
+
+Can we create a recommendation engine to suggest similar Pokémon based on their Type, Stats, and Abilities?
+
+Can we predict a Pokémon’s Generation based on its characteristics?
